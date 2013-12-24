@@ -1,0 +1,11 @@
+{
+    "applications": {
+        "_default": {
+            "link": "debthub"
+        }, 
+        "debthub": {
+            "applicationId": "1JbzXg4Of8Lvx6VfFzMfdaaNxH30SReuAgWAfmHO", 
+            "masterKey": "vruWgty7oJATWpzi1cY8DXgE5OloohWXK6bqf4Mf"
+        }
+    }
+}
